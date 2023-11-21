@@ -1,0 +1,54 @@
+name: make-epub
+
+on:
+  push:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install zip
+        run: sudo apt-get install -y zip
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        run: |
+          zip -r shangshu-vst.epub META-INF mimetype OEBPS
+          sed -i 's/vertical-rl/horizontal-tb/g' OEBPS/Styles/*.css
+          sed -i 's/page-progression-direction="rtl"/page-progression-direction="ltr"/g' OEBPS/content.opf
+          zip -r shangshu.epub META-INF mimetype OEBPS
+
+      - name: Sync to Google drive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto shangshu.epub gdrive:/古籍共享电子书计划/尚書.epub
+      - name: Sync vst to Google drive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto shangshu-vst.epub gdrive:/古籍共享电子书计划/尚書-豎排.epub
+      - name: Sync to Onedrive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto --ignore-errors shangshu.epub onedrive:/古籍共享电子书计划/尚書.epub
+      - name: Sync vst to Onedrive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto --ignore-errors shangshu-vst.epub onedrive:/古籍共享电子书计划/尚書-豎排.epub
+
+

@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="uTYxUxj8FQqUHKlf6ACUSyB"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.29.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>尚書</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>虞書‧堯典</text>
+      </navLabel>
+      <content src="Text/001.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>虞書‧舜典</text>
+      </navLabel>
+      <content src="Text/002.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>虞書‧大禹謨</text>
+      </navLabel>
+      <content src="Text/003.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>虞書‧臯陶謨</text>
+      </navLabel>
+      <content src="Text/004.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>虞書‧益稷</text>
+      </navLabel>
+      <content src="Text/005.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>夏書‧禹貢</text>
+      </navLabel>
+      <content src="Text/006.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>夏書‧甘誓</text>
+      </navLabel>
+      <content src="Text/007.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>夏書‧五子之歌</text>
+      </navLabel>
+      <content src="Text/008.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>夏書‧胤征</text>
+      </navLabel>
+      <content src="Text/009.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>商書‧湯誓</text>
+      </navLabel>
+      <content src="Text/010.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>商書‧仲虺之誥</text>
+      </navLabel>
+      <content src="Text/011.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>商書‧湯誥</text>
+      </navLabel>
+      <content src="Text/012.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>商書‧伊訓</text>
+      </navLabel>
+      <content src="Text/013.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>商書‧太甲上</text>
+      </navLabel>
+      <content src="Text/014.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>商書‧太甲中</text>
+      </navLabel>
+      <content src="Text/015.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>商書‧太甲下</text>
+      </navLabel>
+      <content src="Text/016.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>商書‧咸有一德</text>
+      </navLabel>
+      <content src="Text/017.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>商書‧盤庚上</text>
+      </navLabel>
+      <content src="Text/018.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>商書‧盤庚中</text>
+      </navLabel>
+      <content src="Text/019.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>商書‧盤庚下</text>
+      </navLabel>
+      <content src="Text/020.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>商書‧說命上</text>
+      </navLabel>
+      <content src="Text/021.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>商書‧說命中</text>
+      </navLabel>
+      <content src="Text/022.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>商書‧說命下</text>
+      </navLabel>
+      <content src="Text/023.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>商書‧高宗肜日</text>
+      </navLabel>
+      <content src="Text/024.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>商書‧西伯戡黎</text>
+      </navLabel>
+      <content src="Text/025.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>商書‧微子</text>
+      </navLabel>
+      <content src="Text/026.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>商書‧泰誓上</text>
+      </navLabel>
+      <content src="Text/027.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>商書‧泰誓中</text>
+      </navLabel>
+      <content src="Text/028.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>商書‧泰誓下</text>
+      </navLabel>
+      <content src="Text/029.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>周書‧牧誓</text>
+      </navLabel>
+      <content src="Text/030.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>周書‧武成</text>
+      </navLabel>
+      <content src="Text/031.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>周書‧洪範</text>
+      </navLabel>
+      <content src="Text/032.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>周書‧旅獒</text>
+      </navLabel>
+      <content src="Text/033.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>周書‧金縢</text>
+      </navLabel>
+      <content src="Text/034.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>周書‧大誥</text>
+      </navLabel>
+      <content src="Text/035.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>周書‧微子之命</text>
+      </navLabel>
+      <content src="Text/036.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>周書‧康誥</text>
+      </navLabel>
+      <content src="Text/037.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>周書‧酒誥</text>
+      </navLabel>
+      <content src="Text/038.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>周書‧梓材</text>
+      </navLabel>
+      <content src="Text/039.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>周書‧召誥</text>
+      </navLabel>
+      <content src="Text/040.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>周書‧洛誥</text>
+      </navLabel>
+      <content src="Text/041.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>周書‧多士</text>
+      </navLabel>
+      <content src="Text/042.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>周書‧無逸</text>
+      </navLabel>
+      <content src="Text/043.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>周書‧君奭</text>
+      </navLabel>
+      <content src="Text/044.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>周書‧蔡仲之命</text>
+      </navLabel>
+      <content src="Text/045.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>周書‧多方</text>
+      </navLabel>
+      <content src="Text/046.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>周書‧立政</text>
+      </navLabel>
+      <content src="Text/047.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>周書‧周官</text>
+      </navLabel>
+      <content src="Text/048.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>周書‧君陳</text>
+      </navLabel>
+      <content src="Text/049.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>周書‧顧命</text>
+      </navLabel>
+      <content src="Text/050.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>周書‧康王之誥</text>
+      </navLabel>
+      <content src="Text/051.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>周書‧畢命</text>
+      </navLabel>
+      <content src="Text/052.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>周書‧君牙</text>
+      </navLabel>
+      <content src="Text/053.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>周書‧冏命</text>
+      </navLabel>
+      <content src="Text/054.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>周書‧呂刑</text>
+      </navLabel>
+      <content src="Text/055.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>周書‧文侯之命</text>
+      </navLabel>
+      <content src="Text/056.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>周書‧費誓</text>
+      </navLabel>
+      <content src="Text/057.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>周書‧秦誓</text>
+      </navLabel>
+      <content src="Text/058.htm#toc_1"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>書序</text>
+      </navLabel>
+      <content src="Text/059.htm#toc_1"/>
+    </navPoint>
+  </navMap>
+</ncx>
